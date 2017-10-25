@@ -1,29 +1,19 @@
 {
-  "title": "Landing Page",
-  "name": "startbootstrap-landing-page",
-  "version": "4.0.0-beta.2",
-  "description": "An HTML landing page template built with Bootstrap",
-  "keywords": [
-    "css",
-    "sass",
-    "html",
-    "responsive",
-    "theme",
-    "template"
-  ],
-  "homepage": "https://startbootstrap.com/template-overviews/landing-page",
-  "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page/issues",
-    "email": "feedback@startbootstrap.com"
+  "title": "Ver.bot Landing Page",
+  "name": "Ver.bot Landing Page",
+  "version": "0.1.0",
+  "description": "Ver.bot Landing Page",
+  "scripts": {
+    "dev": "gulp dev"
   },
-  "license": "MIT",
-  "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
+  "homepage": "https://github.com/RPing/Ver.bot-site",
+  "bugs": {
+    "url": "https://github.com/RPing/Ver.bot-site/issues"
+  },
+  "author": "RPing (Stephen Chen) <g1222888@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page.git"
+    "url": "https://github.com/RPing/Ver.bot-site.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
